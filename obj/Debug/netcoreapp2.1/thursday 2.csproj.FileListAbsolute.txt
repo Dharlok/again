@@ -1,0 +1,11 @@
+C:\Users\бьюбт\source\repos\thursday 2\bin\Debug\netcoreapp2.1\thursday 2.deps.json
+C:\Users\бьюбт\source\repos\thursday 2\bin\Debug\netcoreapp2.1\thursday 2.runtimeconfig.json
+C:\Users\бьюбт\source\repos\thursday 2\bin\Debug\netcoreapp2.1\thursday 2.runtimeconfig.dev.json
+C:\Users\бьюбт\source\repos\thursday 2\bin\Debug\netcoreapp2.1\thursday 2.dll
+C:\Users\бьюбт\source\repos\thursday 2\bin\Debug\netcoreapp2.1\thursday 2.pdb
+C:\Users\бьюбт\source\repos\thursday 2\obj\Debug\netcoreapp2.1\thursday 2.csprojAssemblyReference.cache
+C:\Users\бьюбт\source\repos\thursday 2\obj\Debug\netcoreapp2.1\thursday 2.csproj.CoreCompileInputs.cache
+C:\Users\бьюбт\source\repos\thursday 2\obj\Debug\netcoreapp2.1\thursday 2.AssemblyInfoInputs.cache
+C:\Users\бьюбт\source\repos\thursday 2\obj\Debug\netcoreapp2.1\thursday 2.AssemblyInfo.cs
+C:\Users\бьюбт\source\repos\thursday 2\obj\Debug\netcoreapp2.1\thursday 2.dll
+C:\Users\бьюбт\source\repos\thursday 2\obj\Debug\netcoreapp2.1\thursday 2.pdb
